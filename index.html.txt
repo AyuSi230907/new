@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Singh Stationary - Ashiyana</title>
+<style>
+body { font-family: Arial, sans-serif; margin: 20px; background-color: #f4f4f4; }
+header { background-color: #007bff; color: white; padding: 20px; text-align: center; }
+h1 { margin: 0; }
+.items { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin: 20px 0; }
+.item { background: white; padding: 15px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+.item h3 { margin-top: 0; }
+footer { text-align: center; padding: 10px; background-color: #333; color: white; margin-top: 20px; }
+</style>
+</head>
+<body>
+<header>
+<h1>Welcome to Singh Stationary</h1>
+<p>Your one-stop shop for all stationary needs in Ashiyana.</p>
+</header>
+
+<section>
+<h2>Our Products</h2>
+<div class="items">
+<div class="item">
+<h3>Notebooks</h3>
+<p>Price: ₹50 - ₹200 per piece</p>
+</div>
+<div class="item">
+<h3>Pens</h3>
+<p>Price: ₹10 - ₹50 per pen</p>
+</div>
+<div class="item">
+<h3>Pencils</h3>
+<p>Price: ₹5 - ₹20 per pencil</p>
+</div>
+<div class="item">
+<h3>Erasers</h3>
+<p>Price: ₹5 - ₹15 per eraser</p>
+</div>
+<div class="item">
+<h3>Rulers</h3>
+<p>Price: ₹20 - ₹100 per ruler</p>
+</div>
+<div class="item">
+<h3>Glue Sticks</h3>
+<p>Price: ₹20 - ₹50 per stick</p>
+</div>
+<div class="item">
+<h3>Markers</h3>
+<p>Price: ₹30 - ₹150 per marker</p>
+</div>
+<div class="item">
+<h3>Sketch Pads</h3>
+<p>Price: ₹100 - ₹300 per pad</p>
+</div>
+<div class="item">
+<h3>Staplers</h3>
+<p>Price: ₹50 - ₹200 per stapler</p>
+</div>
+<div class="item">
+<h3>Paper Clips</h3>
+<p>Price: ₹10 - ₹50 per pack</p>
+</div>
+<div class="item">
+<h3>Envelopes</h3>
+<p>Price: ₹20 - ₹100 per pack</p>
+</div>
+<div class="item">
+<h3>Calculators</h3>
+<p>Price: ₹200 - ₹500 per calculator</p>
+</div>
+<div class="item">
+<h3>Highlighters</h3>
+<p>Price: ₹20 - ₹80 per highlighter</p>
+</div>
+<div class="item">
+<h3>Binders</h3>
+<p>Price: ₹50 - ₹200 per binder</p>
+</div>
+<div class="item">
+<h3>Whiteboards</h3>
+<p>Price: ₹300 - ₹1000 per board</p>
+</div>
+<div class="item">
+<h3>Art Supplies (Crayons, Colors)</h3>
+<p>Price: ₹50 - ₹300 per set</p>
+</div>
+<div class="item">
+<h3>Files and Folders</h3>
+<p>Price: ₹20 - ₹100 per file</p>
+</div>
+<div class="item">
+<h3>Scissors</h3>
+<p>Price: ₹30 - ₹100 per pair</p>
+</div>
+<div class="item">
+<h3>Tape Dispensers</h3>
+<p>Price: ₹50 - ₹150 per dispenser</p>
+</div>
+<div class="item">
+<h3>Printer Paper</h3>
+<p>Price: ₹200 - ₹500 per ream</p>
+</div>
+</div>
+</section>
+
+<footer>
+<p>Contact Us: Singh Stationary, Ashiyana | Phone: [Your Phone Number] | Email: [Your Email]</p>
+</footer>
+</body>
+</html>
